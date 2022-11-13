@@ -1,8 +1,8 @@
 {
     "name":"Cat Token",
     "description": "This is Cat NFT,Buy it now!",
-    "image":"",
-    "external_url":"",
+    "image":"https://jayjeet1013.github.io/CatNft/image/cat-1.png",
+    "external_url":"https://jayjeet1013.github.io/CatNft/",
     "attributes":[
         {
            "trait_type":"Artifacts",
