@@ -1,0 +1,16 @@
+{
+    "name":"Cat Token",
+    "description": "This is Cat NFT,Buy it now!",
+    "image":"",
+    "external_url":"",
+    "attributes":[
+        {
+           "trait_type":"Artifacts",
+           "value":"Cat"
+        },
+        {
+            "trait_type":"Collection",
+            "value":"catgenome"
+        }
+    ]
+}
